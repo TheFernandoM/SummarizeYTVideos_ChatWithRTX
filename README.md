@@ -24,4 +24,6 @@ Leverage Chat with RTX to summarize videos in your backlog. (1) Get text transcr
 [Link to the License: "/LICENSE.md"](LICENSE.md)
 
 _Summarize YT Videos using Chat With RTX © 2024 by Fernando Molina is licensed under Attribution-NonCommercial-ShareAlike 4.0 International_
+
+You, the reader, have permission to Fork & Distribute this software as long as you give Attribution (credit) to the authors, and ShareAlike (use the same or similar license)
 (last updated the license text above on April 1 2024)
