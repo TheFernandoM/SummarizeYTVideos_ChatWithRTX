@@ -9,7 +9,7 @@ Leverage Chat with RTX to summarize videos in your backlog.
 * Hardware & Operating System that can run Chat With RTX
   * (or remote access to a machine that does) 
 * Python (3+)
-* _YouTube Transcript/Subtitle API (including automatically generated subtitles and subtitle translations)_
+    * Python module: _YouTube Transcript/Subtitle API (including automatically generated subtitles and subtitle translations)_
   * https://pypi.org/project/youtube-transcript-api/
 * Web browser with access to a Console or Developer Tools (press F12)
 
