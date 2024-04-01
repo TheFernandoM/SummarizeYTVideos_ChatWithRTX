@@ -3,7 +3,7 @@
 
 Leverage Chat with RTX to summarize videos in your backlog. 
 
-(1) Get text transcripts for videos then (2) feed it to Chat With RTX (3) save hours of time instead of having to watch full videos.
+(1) Get text transcripts for videos then (2) feed the transcripts to Chat With RTX (3) save hours of time instead of having to watch full videos.
 
 ## Requirements:
 * Hardware & Operating System that can run Chat With RTX
@@ -16,14 +16,15 @@ Leverage Chat with RTX to summarize videos in your backlog.
 ## How-to:
 
 1. Get video URLs from a playlist
- * Use the code in [ExportVideoTitleAndUrls.js](START_HERE/ExportVideoTitleAndUrls.js)
- * Save the output to a .csv file
+    * Use the code in [ExportVideoTitleAndUrls.js](START_HERE/ExportVideoTitleAndUrls.js)
+    * Save the output to a .csv file
+
 2. Convert raw `.csv` to structured `.json.`
-   * Use [convert_csv_to_dict.py](START_HERE/convert_csv_to_dict.py)
+    * Use [convert_csv_to_dict.py](START_HERE/convert_csv_to_dict.py)
 3. [Optional] Filter any unwanted files
- * <TODO>
+    * \<TODO\>
 4. Download transcripts
-   * Use [get_transcripts.py](START_HERE/get_transcripts.py)
+    * Use [get_transcripts.py](START_HERE/get_transcripts.py)
 6. Open `Transcripts` folder in Chat With RTX
 7. Enjoy! 🎉
 
